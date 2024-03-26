@@ -1,4 +1,4 @@
-# My Mini Book Finder
+# Mini Book Finder
 A full-stack app for managing a personal book collection. Users can add, view, edit, and delete books with ease.
 
 ## Features
